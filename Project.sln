@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project", "Project\Project.vcxproj", "{297FFFDE-EAFB-4D61-8E7F-7F761B029E2E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{74D890C3-DE8C-438E-B364-5C75F1CF6AD1}"
+	ProjectSection(SolutionItems) = preProject
+		Project\Files\Anulowanie_zamowienia.cpp = Project\Files\Anulowanie_zamowienia.cpp
+		Project\Files\Kierownik.cpp = Project\Files\Kierownik.cpp
+		Project\Files\Klient.cpp = Project\Files\Klient.cpp
+		Project\Files\Konto.cpp = Project\Files\Konto.cpp
+		Project\Files\Koszyk.cpp = Project\Files\Koszyk.cpp
+		Project\Files\Magazynier.cpp = Project\Files\Magazynier.cpp
+		Project\Files\Produkt.cpp = Project\Files\Produkt.cpp
+		Project\Files\Produkt_do_zamowienia.cpp = Project\Files\Produkt_do_zamowienia.cpp
+		Project\Files\Promocja.cpp = Project\Files\Promocja.cpp
+		Project\Files\Raport.cpp = Project\Files\Raport.cpp
+		Project\Files\Realizacja_reklamacji.cpp = Project\Files\Realizacja_reklamacji.cpp
+		Project\Files\Realizacja_zamowienia.cpp = Project\Files\Realizacja_zamowienia.cpp
+		Project\Files\Sprzedawca.cpp = Project\Files\Sprzedawca.cpp
+		Project\Files\Stan_magazynu.cpp = Project\Files\Stan_magazynu.cpp
+		Project\Files\Zamowienie_do_magazynu.cpp = Project\Files\Zamowienie_do_magazynu.cpp
+		Project\Files\Zamowienie_klienta.cpp = Project\Files\Zamowienie_klienta.cpp
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{297FFFDE-EAFB-4D61-8E7F-7F761B029E2E}.Debug|x64.ActiveCfg = Debug|x64
+		{297FFFDE-EAFB-4D61-8E7F-7F761B029E2E}.Debug|x64.Build.0 = Debug|x64
+		{297FFFDE-EAFB-4D61-8E7F-7F761B029E2E}.Debug|x86.ActiveCfg = Debug|Win32
+		{297FFFDE-EAFB-4D61-8E7F-7F761B029E2E}.Debug|x86.Build.0 = Debug|Win32
+		{297FFFDE-EAFB-4D61-8E7F-7F761B029E2E}.Release|x64.ActiveCfg = Release|x64
+		{297FFFDE-EAFB-4D61-8E7F-7F761B029E2E}.Release|x64.Build.0 = Release|x64
+		{297FFFDE-EAFB-4D61-8E7F-7F761B029E2E}.Release|x86.ActiveCfg = Release|Win32
+		{297FFFDE-EAFB-4D61-8E7F-7F761B029E2E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12F817C2-0C8D-4BD6-BAB5-1C25F18FDEC8}
+	EndGlobalSection
+EndGlobal
